@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+img {
+  max-width: 200px;
+  margin: 30px;
+}
+
+h2, h3 {
+  margin-left: 0px;
+  text-align: center;
+}
+
+button {
+margin: 20px 0 20px 95px;
+width: 80px;
+
+}
